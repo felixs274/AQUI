@@ -1,0 +1,6 @@
+{
+  "appId": "com.avastack.aqui",
+  "appName": "AQUI",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
